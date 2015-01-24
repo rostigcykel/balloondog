@@ -1,0 +1,18 @@
+C:\dev\Project Dawg\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\dev\Project Dawg\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\dev\Project Dawg\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\dev\Project Dawg\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\dev\Project Dawg\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\dev\Project Dawg\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\dev\Project Dawg\obj\Debug\UnityVS.Project Dawg.CSharp.csprojResolveAssemblyReference.cache
+C:\dev\Project Dawg\obj\Debug\Assembly-CSharp.dll
+C:\dev\Project Dawg\obj\Debug\Assembly-CSharp.pdb
+C:\git\Project Dawg\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\git\Project Dawg\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\git\Project Dawg\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\git\Project Dawg\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\git\Project Dawg\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\git\Project Dawg\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\git\Project Dawg\obj\Debug\UnityVS.Project Dawg.CSharp.csprojResolveAssemblyReference.cache
+C:\git\Project Dawg\obj\Debug\Assembly-CSharp.dll
+C:\git\Project Dawg\obj\Debug\Assembly-CSharp.pdb
